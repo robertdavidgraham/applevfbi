@@ -14,7 +14,7 @@ me on Twitter @ErrataRob to tell me to accept the pull request.
 [DoJ's application requesting the court order] (docs/2016-02-16-doj-application-for-court-order.pdf)
 This is where the DoJ officially asks the court to rule in their favor.
 
-[Order Compelling Apple Inc. to Assist Agents in Search (ED No. 15-451M, Dkt. 19)](docs/2016-02-16-court-order-compelling-apple-to-assist.pdf)
+⚖[Order Compelling Apple Inc. to Assist Agents in Search (ED No. 15-451M, Dkt. 19)](docs/2016-02-16-court-order-compelling-apple-to-assist.pdf)
 This is the ruling agreeing with the DoJ that compells Apple. This gives Apple 5 days (later granted 3 extra days) to respond.
 
 
@@ -22,7 +22,7 @@ This is the ruling agreeing with the DoJ that compells Apple. This gives Apple 5
 
 Apple tells court it will challenge the court order.
 
-[Court scheduling order in response to Apple's challenge](docs/2016-02-19-court-order-scheduling.pdf)
+⚖[Court scheduling order in response to Apple's challenge](docs/2016-02-19-court-order-scheduling.pdf)
 Judge schedules both sides to appear in court before her on March 22.
 
 [DoJ reiterates its demand that Apple comply](docs/2016-02-19-doj-motion-to-compel.pdf)
@@ -60,7 +60,7 @@ DoJ asked for delay.
 
 2016-March-22
 
-[Order Granting Government’s Ex Parte Application to Vacate Hearing](docs/2016-03-22-court-vacating-hearing.pdf)
+⚖[Order Granting Government’s Ex Parte Application to Vacate Hearing](docs/2016-03-22-court-vacating-hearing.pdf)
 Now the date is April 5, by which time the DoJ has to report on whether
 this new technique will work.
 
@@ -68,7 +68,7 @@ this new technique will work.
 
 The various briefs from both sides cite the following cases.
 
-[US v New York Telephone (1977)](https://www.law.cornell.edu/supremecourt/text/434/159)
+⚖[US v New York Telephone (1977)](https://www.law.cornell.edu/supremecourt/text/434/159)
 This is the case most cited by both sides in applying the All Writs Act to the modern
 world.
 
