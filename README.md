@@ -75,6 +75,7 @@ world.
 
 # Amicus Curiae Briefs
 
+🍎 (Apple's list of brief)(https://www.apple.com/pr/library/2016/03/03Amicus-Briefs-in-Support-of-Apple.html)
 
 
 
